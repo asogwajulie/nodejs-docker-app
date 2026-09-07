@@ -86,7 +86,7 @@ asogwajulie/nodejs-app:1.0
 
 ### Screenshot: Docker Build
 
-![Docker Build](screenshots/docker-build.png)
+![Docker Build Command](screenshots/Docker%20Build%20Command.png)
 
 The screenshot above shows the Docker build command and the successful completion of the Docker image build.
 
@@ -109,7 +109,7 @@ The image was successfully uploaded to the Docker Hub repository.
 
 ### Screenshot: Docker Hub Image
 
-![Docker Hub Image](screenshots/docker-hub.png)
+![Docker Hub Image](screenshots/Docker%20Hub%20Image.png)
 
 The screenshot above shows the Docker image available in the Docker Hub repository with the `1.0` tag.
 
@@ -145,7 +145,7 @@ The container was successfully running and exposing port `3000`.
 
 ### Screenshot: Running Docker Container
 
-![Running Docker Container](screenshots/docker-ps.png)
+![Running Docker Container](screenshots/Running%20Docker%20Container.png)
 
 The screenshot above shows the Node.js Docker container running successfully.
 
@@ -169,7 +169,7 @@ The application displayed:
 
 ### Screenshot: Live Application
 
-![Live Application](screenshots/live-application.png)
+![Live Application](screenshots/Live%20Application.png)
 
 The screenshot above confirms that the Node.js application is successfully running from the Docker container.
 
